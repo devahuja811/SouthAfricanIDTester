@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity {
                     year = "20"+ year;
                 }
                 String monthString = new DateFormatSymbols().getMonths()[iMonth-1];
+                int num = 0;
 
                 int gen = Integer.parseInt(Character.toString(idNumber.charAt(6)));
                 String gender;
