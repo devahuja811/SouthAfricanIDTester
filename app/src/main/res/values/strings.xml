@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SA ID Tester</string>
+    <string name="hint_id">Please enter ID Number</string>
+    <string name="submit">Submit</string>
+    <string name="birthDate">\ Date of Birth:  \</string>
+    <string name="MaleFemale">\ Gender:  \</string>
+    <string name="Natio">\ Citizenship Status:  \</string>
+    <string name="newLine">\n</string>
+    <string name="textview">TextView</string>
+</resources>
